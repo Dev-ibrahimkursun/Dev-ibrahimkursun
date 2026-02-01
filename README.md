@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there, I'm Ibrahim! 👋
 
-<!--
-**Dev-ibrahimkursun/Dev-ibrahimkursun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering Student & Aspiring DevOps Engineer.
+I'm currently building my foundation in **Linux**, **Docker**, and **Automation**.
 
-Here are some ideas to get you started:
+🛠 **Tech Stack:**
+* **System:** Linux (Ubuntu), Bash Scripting
+* **Container:** Docker & Docker Compose
+* **Cloud:** AWS (Learning basics)
+* **Language:** Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Contact:**
+* [LinkedIn: Dev-ibrahimkursun](https://www.linkedin.com/in/dev-ibrahimkursun)
